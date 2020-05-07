@@ -10,13 +10,13 @@
        text-align: left;
      }
      h1 {
-       font-size: 1.8em;
+       font-size: 2.5em;
        font-weight: bold;
        color: #0000ff;
        text-align: center;
      }
      h2 {
-     font-size: 1em;
+     font-size: 1.8em;
      font-weight: bold;
      color: #0000ff;
      text-align: left;
