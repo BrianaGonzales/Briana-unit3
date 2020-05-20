@@ -27,7 +27,17 @@
      color: #0d0d0d;
      text-align: left;
      }
-     p {
+     #alert {
+     font-weight:bold;
+     backgroung: FFFF66; /*yellow*/
+     border: 2px solid black;
+     padding: 1em
+     }
+     a {
+     color:red;
+     text-decoration: underline;
+    }
+    p {
     font-size: 1.1em;
     font-weight: italic;
     color: #0d0d0d;
