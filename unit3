@@ -33,6 +33,14 @@
     color: #0d0d0d;
     text align: left;
      }
+     a {
+     color:black;
+     backgroung-color:white;
+     } 
+     a: hover {
+     color: white;
+     backgroung-color: black
+     }
 </style>
 <meta charset="utf-8">
       <title>Web Portfolio: Briana Gonzales</title>
